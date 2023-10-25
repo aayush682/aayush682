@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @aayush682
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedln.com/aayush682
+- 👀 I’m interested in Web Development and Software Development
+- 🌱 I’m currently a recent graduate and looking for a job.
 
 <!---
 aayush682/aayush682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
