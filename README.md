@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning: **cloud security, security automation (Python), and GRC tooling**  
 - 🧾 Portfolio / Projects: **[Portfolio](https://aayush682.github.io/MyPortfolio/)**  
-- 📄 Resume: **[View my resume](PASTE_YOUR_RESUME_LINK_HERE)**  
+- 📄 Resume: **[View my resume](https://drive.google.com/file/d/1f05F6qcF-CfxcIYNdD76usDJhUhUEQvr/view?usp=drive_link)**  
 - 💬 Ask me about: **Third-Party Risk Management, ISO 27001, security questionnaires, vendor due diligence**  
 - 📫 Reach me at: **tiwariaayush682@outlook.com**
 
